@@ -1,2 +1,2 @@
 # gitdemo
-gitdemo
+gitdemo - training demo branch. 
